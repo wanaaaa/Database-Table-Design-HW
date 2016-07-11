@@ -13,7 +13,7 @@ creator:
 
 ## Exercise
 
-It's time to put your database design skills to work! Draw out a diagram of at least 3 database tables you would use in a banking app. The required tables are Accounts, Users, and Transactions.
+It's time to put your database design skills to work! Draw out a diagram of at least 3 database tables you would use in a banking app. The required tables are Accounts, Users, and Transactions. Think about the different pieces of data you would need to keep track of in each table and carefully select columns to represent those pieces of data.
 
 #### Requirements
 
@@ -27,7 +27,7 @@ It's time to put your database design skills to work! Draw out a diagram of at l
 
 #### Deliverable
 
-A pull request which includes a diagram, hand drawn or made on the computer. If you draw it by hand on paper or whiteboard, upload a picture to your repository. If you want to create it electronically, copy an image or PDF of your diagram to your repository.
+A pull request which includes a diagram, hand drawn or made on the computer. If you draw it by hand on paper or whiteboard, upload a photo to your repository. If you want to create it electronically, copy an image or PDF of your diagram to your repository.
 
 #### Additional Resources
 
