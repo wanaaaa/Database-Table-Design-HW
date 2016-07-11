@@ -1,7 +1,7 @@
 ---
 title: Bank Database Table Design
 type: Homework
-duration: "1:00"
+duration: "0:30"
 creator:
     name: Drew Mahrt
     city: NYC
