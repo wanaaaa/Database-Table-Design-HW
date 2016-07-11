@@ -19,11 +19,12 @@ It's time to put your database design skills to work! Draw out a diagram of at l
 
 - Draw a diagram of at least 3 tables as described above
 - Include table names, column names, and data type for each column
+- Specify a *primary key* for each table (this could be a real-world value like social security number, but more often it is just an integer that is simply incremented as rows are added so that each row has a unique value)
 
 **Bonus:**
 - Add more tables
-- Indicate the relationships between tables
-- Indicate which columns are primary keys and which are foreign keys (bonus because we haven't discussed this concept yet)
+- Specify the relationships between tables (do they share any fields in common that you can use to link them together?)
+- Indicate which columns are *foreign keys* (bonus because we haven't discussed this concept yet)
 
 #### Deliverable
 
